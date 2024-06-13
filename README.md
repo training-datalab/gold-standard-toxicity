@@ -83,7 +83,7 @@ https://bgonzalezbustamante.com
 
 Sebastián Rivera \
 sebastian.rivera@uci.edu \
-[ORCID iD 0000-0003-2642-2546](https://orcid.org/0000-0003-2642-2546)
+[ORCID iD 0000-0003-2642-2546](https://orcid.org/0000-0003-2642-2546) \
 https://sebastianrivera.cl
 
 ## CRediT - Contributor Roles Taxonomy
