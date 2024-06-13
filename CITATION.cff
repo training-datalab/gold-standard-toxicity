@@ -1,0 +1,15 @@
+cff-version: 1.2.0
+message: "If you use this data set, please cite it as below."
+authors:
+- family-names: "González-Bustamante"
+  given-names: "Bastián"
+  orcid: "https://orcid.org/0000-0003-1510-6820"
+- family-names: "Rivera"
+  given-names: "Sebastián"
+  orcid: "https://orcid.org/0000-0003-2642-2546"
+title: "Data Set on Local Government Indicators in Chile"
+version: "0.1.0"
+doi:
+date-released: 2024-06-13
+url: "https://github.com/training-datalab/gold-standard-toxicity"
+type: data
