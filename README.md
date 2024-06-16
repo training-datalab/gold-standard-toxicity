@@ -1,7 +1,7 @@
 # gold-standard-toxicity
 **Gold Standard for Toxicity and Incivility Project**
 
-[![Coverage](https://raw.githubusercontent.com/training-datalab/gold-standard-toxicity/main/badges/coverage_01.svg)](https://github.com/training-datalab/gold-standard-toxicity/tree/main/data/raw) [![Version](https://raw.githubusercontent.com/training-datalab/gold-standard-toxicity/main/badges/v_0_1_0.svg)](CHANGELOG.md) [![Project Status: Active – The project has reached a stable, usable state and is being actively developed.](https://raw.githubusercontent.com/training-datalab/gold-standard-toxicity/master/badges/active.svg)](STATUS.md) [![DOI](https://raw.githubusercontent.com/training-datalab/gold-standard-toxicity/main/badges/doi_to_be_minted.svg)](https://zenodo.org/communities/tdl/) [![License](https://raw.githubusercontent.com/training-datalab/gold-standard-toxicity/main/badges/gnu.svg)](LICENSE-GPL.md) [![License](https://raw.githubusercontent.com/training-datalab/gold-standard-toxicity/main/badges/cc_by_4_0.svg)](LICENSE-CC.md) [![Raspberry](https://raw.githubusercontent.com/training-datalab/gold-standard-toxicity/main/badges/rpi5.svg)](https://www.raspberrypi.com/) [![tDL](https://raw.githubusercontent.com/training-datalab/gold-standard-toxicity/main/badges/tDL.svg)](https://training-datalab.com/)
+[![Coverage](https://raw.githubusercontent.com/training-datalab/gold-standard-toxicity/main/badges/coverage_10.svg)](https://github.com/training-datalab/gold-standard-toxicity/tree/main/data/raw) [![Version](https://raw.githubusercontent.com/training-datalab/gold-standard-toxicity/main/badges/v_0_1_1.svg)](CHANGELOG.md) [![Project Status: Active – The project has reached a stable, usable state and is being actively developed.](https://raw.githubusercontent.com/training-datalab/gold-standard-toxicity/master/badges/active.svg)](STATUS.md) [![DOI](https://raw.githubusercontent.com/training-datalab/gold-standard-toxicity/main/badges/doi_to_be_minted.svg)](https://zenodo.org/communities/tdl/) [![License](https://raw.githubusercontent.com/training-datalab/gold-standard-toxicity/main/badges/gnu.svg)](LICENSE-GPL.md) [![License](https://raw.githubusercontent.com/training-datalab/gold-standard-toxicity/main/badges/cc_by_4_0.svg)](LICENSE-CC.md) [![Raspberry](https://raw.githubusercontent.com/training-datalab/gold-standard-toxicity/main/badges/rpi5.svg)](https://www.raspberrypi.com/) [![tDL](https://raw.githubusercontent.com/training-datalab/gold-standard-toxicity/main/badges/tDL.svg)](https://training-datalab.com/)
 
 ## Overview
 
@@ -101,7 +101,3 @@ Diego Aguilar ([ORCID iD 0000-0003-4531-5922](https://orcid.org/0000-0003-4531-5
 Carlos Palacios (identifier TBC): Investigation and resources.
 
 Sofía Carrerá-Martínez (identifier TBC): Investigation and resources.
-
-### Latest Revision
-
-[June 13, 2024](CHANGELOG.md).

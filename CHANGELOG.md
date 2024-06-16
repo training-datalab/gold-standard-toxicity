@@ -5,6 +5,10 @@ All notable changes to "Gold Standard for Toxicity and Incivility Project" will 
 
 ## [Released]
 
+## [0.1.1] - 2024-06-16
+### Changed
+- Minor corrections-
+
 ## [0.1.0] - 2024-06-13
 ### Added
 - GitHub repository.
