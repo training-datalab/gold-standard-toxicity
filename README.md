@@ -72,7 +72,7 @@ Please read our [code of conduct](CODE_OF_CONDUCT.md) first. Minor contributions
 
 ## Citation
 
-González-Bustamante, B., & Rivera, S. (2024). Annotated Data in Spanish for Toxicity and Insults in Digital Social Networks. Dataset, pre-release version 0.1.2. Leiden University, Universidad Diego Portales, University of California Irvine and Training Data Lab.
+González-Bustamante, B., & Rivera, S. (2024). Annotated Data in Spanish for Toxicity and Insults in Digital Social Networks. Dataset, pre-release version 0.2.3. Leiden University, Universidad Diego Portales, University of California Irvine and Training Data Lab.
 
 ## Authors
 
