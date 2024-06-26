@@ -1,7 +1,7 @@
 # gold-standard-toxicity
 **Gold Standard for Toxicity and Incivility Project**
 
-[![Coverage](https://raw.githubusercontent.com/training-datalab/gold-standard-toxicity/main/badges/coverage_55.svg)](https://github.com/training-datalab/gold-standard-toxicity/tree/main/data/raw) [![Version](https://raw.githubusercontent.com/training-datalab/gold-standard-toxicity/main/badges/v_0_2_2.svg)](CHANGELOG.md) [![Project Status: Active – The project has reached a stable, usable state and is being actively developed.](https://raw.githubusercontent.com/training-datalab/gold-standard-toxicity/master/badges/active.svg)](STATUS.md) [![DOI](https://raw.githubusercontent.com/training-datalab/gold-standard-toxicity/main/badges/doi_to_be_minted.svg)](https://zenodo.org/communities/tdl/) [![License](https://raw.githubusercontent.com/training-datalab/gold-standard-toxicity/main/badges/gnu.svg)](LICENSE-GPL.md) [![License](https://raw.githubusercontent.com/training-datalab/gold-standard-toxicity/main/badges/cc_by_4_0.svg)](LICENSE-CC.md) [![Raspberry](https://raw.githubusercontent.com/training-datalab/gold-standard-toxicity/main/badges/rpi5.svg)](https://www.raspberrypi.com/) [![tDL](https://raw.githubusercontent.com/training-datalab/gold-standard-toxicity/main/badges/tDL.svg)](https://training-datalab.com/)
+[![Coverage](https://raw.githubusercontent.com/training-datalab/gold-standard-toxicity/main/badges/coverage_59.svg)](https://github.com/training-datalab/gold-standard-toxicity/tree/main/data/raw) [![Version](https://raw.githubusercontent.com/training-datalab/gold-standard-toxicity/main/badges/v_0_2_3.svg)](CHANGELOG.md) [![Project Status: Active – The project has reached a stable, usable state and is being actively developed.](https://raw.githubusercontent.com/training-datalab/gold-standard-toxicity/master/badges/active.svg)](STATUS.md) [![DOI](https://raw.githubusercontent.com/training-datalab/gold-standard-toxicity/main/badges/doi_to_be_minted.svg)](https://zenodo.org/communities/tdl/) [![License](https://raw.githubusercontent.com/training-datalab/gold-standard-toxicity/main/badges/gnu.svg)](LICENSE-GPL.md) [![License](https://raw.githubusercontent.com/training-datalab/gold-standard-toxicity/main/badges/cc_by_4_0.svg)](LICENSE-CC.md) [![Raspberry](https://raw.githubusercontent.com/training-datalab/gold-standard-toxicity/main/badges/rpi5.svg)](https://www.raspberrypi.com/) [![tDL](https://raw.githubusercontent.com/training-datalab/gold-standard-toxicity/main/badges/tDL.svg)](https://training-datalab.com/)
 
 ## Overview
 
@@ -9,7 +9,7 @@ This repository contains data sets and materials for a gold standard elaboration
 
 We are labelling two samples of novel datasets of political digital interactions on Twitter (rebranded as X). The first set comprises almost 5 million data points from three Latin American protest events: (a) protests against the coronavirus and judicial reform measures in Argentina during August 2020; (b) protests against education budget cuts in Brazil in May 2019; and (c) the social outburst in Chile stemming from protests against the underground fare hike in October 2019. We are focusing on interactions in Spanish to elaborate a gold standard for digital interactions in this language, therefore, we prioritise Argentinian and Chilean data. The second set contains more than 31 million messages and more than 9 million interactions between 2010 and 2022, covering the election of members of the first Constitutional Convention in Chile, the drafting process and the referendum in which the proposal was rejected.
 
-This project is generously funded by the **OpenAI Academic Programme**, **2024 FAE-UDP Research Grant**, and partially by the **St Hilda’s College Muriel Wise Fund**. The [**Training Data Lab**](https://training-datalab.com/) research group also logistically supports this project.
+This project is generously funded by the **OpenAI Academic Programme**, **2024 FAE-UDP Research Grant**, and partially by the **St Hilda’s College Muriel Wise Fund at the University of Oxford**. The [**Training Data Lab**](https://training-datalab.com/) research group also logistically supports this project.
 
 ## Coding Process
 
@@ -88,11 +88,11 @@ https://sebastianrivera.cl
 
 ## CRediT - Contributor Roles Taxonomy
 
-Bastián González-Bustamante ([ORCID iD 0000-0003-1510-6820](https://orcid.org/0000-0003-1510-6820)): Conceptualisation, data curation, formal analysis, funding acquisition, methodology, project administration, resources, software, supervision, and validation.
+Bastián González-Bustamante ([ORCID iD 0000-0003-1510-6820](https://orcid.org/0000-0003-1510-6820)): Conceptualisation, data curation, formal analysis, funding acquisition, investigation, methodology, project administration, resources, software, supervision, and validation.
 
 Sebastián Rivera [(ORCID iD 0000-0003-2642-2546)](https://orcid.org/0000-0003-2642-2546): Conceptualisation, data curation, resources, supervision, and validation.
 
-Carla Cisternas ([ORCID iD 0000-0001-7948-6194](https://orcid.org/0000-0001-7948-6194)): Resources and supervision.
+Carla Cisternas ([ORCID iD 0000-0001-7948-6194](https://orcid.org/0000-0001-7948-6194)): Investigation, resources and supervision.
 
 Jaquelin Morillo ([ORCID iD 0000-0002-2870-2691](https://orcid.org/0000-0002-2870-2691)): Investigation and resources.
 
