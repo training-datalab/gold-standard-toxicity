@@ -9,6 +9,10 @@ All notable changes to "Gold Standard for Toxicity and Incivility Project" will 
 
 ## [Released]
 
+## [0.3.3] - 2024-06-27
+### Added
+Zenodo DOI.
+
 ## [0.2.3] - 2024-06-26
 ### Changed
 - Minor corrections.
