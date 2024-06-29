@@ -51,13 +51,13 @@ Once we finish the labelling process, we will benchmark human coding with this c
 
 ### Annotation Performance
 
-| Coder | Labels | Avg Time per Label | Avg Agreement | Approval Percentage |
-| ----- | :----: | :----------------: | :-----------: | :-----------------: |
-| i3i43 | 367    | 6.6s               | 0.812         | 0.758               |
-| wg9ps | 546    | 9.4s               | 0.590         | 0.682               |
-| rj8e0 | 1,860  | 16.3s              | 0.736         | 0.758               |
-| h1arz | 473    | 5.1s               | 0.763         | 0.916               |
-| v1z6y | 690    | 8.5s               | 0.694         | 0.647               |
+| Coder | Labels | Avg Time per Label | Avg Agreement | Approval |
+| ----- | :----: | :----------------: | :-----------: | :------: |
+| i3i43 | 367    | 6.6s               | 0.812         | 0.758    |
+| wg9ps | 546    | 9.4s               | 0.590         | 0.682    |
+| rj8e0 | 1,860  | 16.3s              | 0.736         | 0.758    |
+| h1arz | 473    | 5.1s               | 0.763         | 0.916    |
+| v1z6y | 690    | 8.5s               | 0.694         | 0.647    |
 
 ## Preservation
 
