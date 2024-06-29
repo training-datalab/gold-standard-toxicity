@@ -14,6 +14,8 @@ This project is generously funded by the **OpenAI Academic Programme**, **2024 F
 
 ## Coding Process
 
+### Annotation Task
+
 Our samples are balanced considering a probability score from one of our main classification tasks using BERT family models already applied to the full corpora. This baseline classification implied more than 5,400 hours of computing.
 
 The protest data was completely classified locally on a Raspberry Pi 5, while 41% of the batches of Convention data were classified there, and the rest were run on the cloud. **This allowed us to reduce the carbon footprint of our computational tasks by around 39%.**
@@ -36,7 +38,7 @@ Once we finish the labelling process, we will benchmark human coding with this c
 | Chilean protests    | 0.81 to 1.00 | CHL_Q5 |  100   |     20     |      3      | :white_check_mark: |    1     |
 |                     |              | Total  | 1,000  |    200     |     14      |                    |          |
 
-### Chilean Constitutional Convention
+### Chilean Constitutional Convention Sample
 
 | Case                      |   Toxicity   | Batch  | Sample | Oversample | Oversampled |      Labelbox      | Priority |
 | ------------------------- | :----------: | :----: | :----: | :--------: | :---------: | :----------------: | :------: |
@@ -47,9 +49,19 @@ Once we finish the labelling process, we will benchmark human coding with this c
 | Constitutional Convention | 0.81 to 1.00 | CON_Q5 |  200   |     40     |      0      | :white_check_mark: |    3     |
 |                           |              | Total  | 1,000  |    200     |      1      |                    |          |
 
+### Annotation Performance
+
+| Coder | Labels | Avg Time per Label | Avg Agreement | Approval Percentage |
+| ----- | :----: | :----------------: | :-----------: | :-----------------: |
+| i3i43 | 367    | 6.6s               | 0.812         | 0.758               |
+| wg9ps | 546    | 9.4s               | 0.590         | 0.682               |
+| rj8e0 | 1,860  | 16.3s              | 0.736         | 0.758               |
+| h1arz | 473    | 5.1s               | 0.763         | 0.916               |
+| v1z6y | 690    | 8.5s               | 0.694         | 0.647               |
+
 ## Preservation
 
-These data sets are stored with version control on this GitHub repository. Furthermore, a Digital Object Identifier will provided by Zenodo.
+These data sets are stored with version control on this GitHub repository. Furthermore, a Digital Object Identifier is provided by Zenodo.
 
 ## Storage and Backup
 

@@ -7,6 +7,10 @@ All notable changes to "Gold Standard for Toxicity and Incivility Project" will 
 ### Added
 - Finishing human-coders annotations on Labelbox.
 
+## [0.3.4] - TBC
+### Changed
+- Minor corrections.
+
 ## [Released]
 
 ## [0.3.3] - 2024-06-27
