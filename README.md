@@ -2,7 +2,7 @@
 **Gold Standard for Toxicity and Incivility Project** \
 **Annotated Data in Spanish for Toxicity and Insults in Digital Social Networks**
 
-[![Coverage](https://raw.githubusercontent.com/training-datalab/gold-standard-toxicity/main/badges/coverage_67.svg)](https://github.com/training-datalab/gold-standard-toxicity/tree/main/data/raw) [![Version](https://raw.githubusercontent.com/training-datalab/gold-standard-toxicity/main/badges/v_0_3_3.svg)](CHANGELOG.md) [![Project Status: Active – The project has reached a stable, usable state and is being actively developed.](https://raw.githubusercontent.com/training-datalab/gold-standard-toxicity/master/badges/active.svg)](STATUS.md) [![DOI](https://raw.githubusercontent.com/training-datalab/gold-standard-toxicity/main/badges/doi.svg)](https://zenodo.org/doi/10.5281/zenodo.12574288) [![License](https://raw.githubusercontent.com/training-datalab/gold-standard-toxicity/main/badges/gnu.svg)](LICENSE-GPL.md) [![License](https://raw.githubusercontent.com/training-datalab/gold-standard-toxicity/main/badges/cc_by_4_0.svg)](LICENSE-CC.md) [![Raspberry](https://raw.githubusercontent.com/training-datalab/gold-standard-toxicity/main/badges/rpi5.svg)](https://www.raspberrypi.com/) [![tDL](https://raw.githubusercontent.com/training-datalab/gold-standard-toxicity/main/badges/tDL.svg)](https://training-datalab.com/)
+[![Coverage](https://raw.githubusercontent.com/training-datalab/gold-standard-toxicity/main/badges/coverage_68.svg)](https://github.com/training-datalab/gold-standard-toxicity/tree/main/data/raw) [![Version](https://raw.githubusercontent.com/training-datalab/gold-standard-toxicity/main/badges/v_0_3_3.svg)](CHANGELOG.md) [![Project Status: Active – The project has reached a stable, usable state and is being actively developed.](https://raw.githubusercontent.com/training-datalab/gold-standard-toxicity/master/badges/active.svg)](STATUS.md) [![DOI](https://raw.githubusercontent.com/training-datalab/gold-standard-toxicity/main/badges/doi.svg)](https://zenodo.org/doi/10.5281/zenodo.12574288) [![License](https://raw.githubusercontent.com/training-datalab/gold-standard-toxicity/main/badges/gnu.svg)](LICENSE-GPL.md) [![License](https://raw.githubusercontent.com/training-datalab/gold-standard-toxicity/main/badges/cc_by_4_0.svg)](LICENSE-CC.md) [![Raspberry](https://raw.githubusercontent.com/training-datalab/gold-standard-toxicity/main/badges/rpi5.svg)](https://www.raspberrypi.com/) [![tDL](https://raw.githubusercontent.com/training-datalab/gold-standard-toxicity/main/badges/tDL.svg)](https://training-datalab.com/)
 
 ## Overview
 
@@ -53,11 +53,11 @@ Once we finish the labelling process, we will benchmark human coding with this c
 
 | Coder | Labels | Avg Time per Label | Avg Agreement | Approval |
 | ----- | :----: | :----------------: | :-----------: | :------: |
-| i3i43 | 370    | 7s                 | 0.802         | 0.846    |
-| wg9ps | 546    | 16s                | 0.593         | 0.813    |
-| rj8e0 | 1,884  | 5s                 | 0.733         | 0.784    |
+| i3i43 | 370    | 7s                 | 0.802         | 0.852    |
+| wg9ps | 546    | 16s                | 0.576         | 0.827    |
+| rj8e0 | 1,936  | 5s                 | 0.729         | 0.767    |
 | h1arz | 473    | 9s                 | 0.763         | 0.962    |
-| v1z6y | 690    | 9s                 | 0.694         | 0.647    |
+| v1z6y | 690    | 9s                 | 0.694         | 0.654    |
 
 ## Preservation
 
