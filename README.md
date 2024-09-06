@@ -2,7 +2,7 @@
 **Gold Standard for Toxicity and Incivility Project** \
 **Annotated Data in Spanish for Toxicity and Insults in Digital Social Networks**
 
-[![Coverage](https://raw.githubusercontent.com/training-datalab/gold-standard-toxicity/main/badges/coverage_80.svg)](https://github.com/training-datalab/gold-standard-toxicity/tree/main/data/raw) [![Version](https://raw.githubusercontent.com/training-datalab/gold-standard-toxicity/main/badges/v_0_3_3.svg)](CHANGELOG.md) [![Project Status: Active – The project has reached a stable, usable state and is being actively developed.](https://raw.githubusercontent.com/training-datalab/gold-standard-toxicity/master/badges/active.svg)](STATUS.md) [![DOI](https://raw.githubusercontent.com/training-datalab/gold-standard-toxicity/main/badges/doi.svg)](https://zenodo.org/doi/10.5281/zenodo.12574288) [![License](https://raw.githubusercontent.com/training-datalab/gold-standard-toxicity/main/badges/gnu.svg)](LICENSE-GPL.md) [![License](https://raw.githubusercontent.com/training-datalab/gold-standard-toxicity/main/badges/cc_by_4_0.svg)](LICENSE-CC.md) [![Raspberry](https://raw.githubusercontent.com/training-datalab/gold-standard-toxicity/main/badges/rpi5.svg)](https://www.raspberrypi.com/) [![tDL](https://raw.githubusercontent.com/training-datalab/gold-standard-toxicity/main/badges/tDL.svg)](https://training-datalab.com/)
+[![Coverage](https://raw.githubusercontent.com/training-datalab/gold-standard-toxicity/main/badges/coverage_100.svg)](https://github.com/training-datalab/gold-standard-toxicity/tree/main/data/raw) [![Version](https://raw.githubusercontent.com/training-datalab/gold-standard-toxicity/main/badges/v_0_5_3.svg)](CHANGELOG.md) [![Project Status: Active – The project has reached a stable, usable state and is being actively developed.](https://raw.githubusercontent.com/training-datalab/gold-standard-toxicity/master/badges/active.svg)](STATUS.md) [![DOI](https://raw.githubusercontent.com/training-datalab/gold-standard-toxicity/main/badges/doi.svg)](https://zenodo.org/doi/10.5281/zenodo.12574288) [![License](https://raw.githubusercontent.com/training-datalab/gold-standard-toxicity/main/badges/gnu.svg)](LICENSE-GPL.md) [![License](https://raw.githubusercontent.com/training-datalab/gold-standard-toxicity/main/badges/cc_by_4_0.svg)](LICENSE-CC.md) [![Raspberry](https://raw.githubusercontent.com/training-datalab/gold-standard-toxicity/main/badges/rpi5.svg)](https://www.raspberrypi.com/) [![tDL](https://raw.githubusercontent.com/training-datalab/gold-standard-toxicity/main/badges/tDL.svg)](https://training-datalab.com/)
 
 ## Overview
 
@@ -53,11 +53,11 @@ Once we finish the labelling process, we will benchmark human coding with this c
 
 | Coder | Labels | Avg Time per Label | Avg Agreement | Approval |
 | ----- | :----: | :----------------: | :-----------: | :------: |
-| i3i43 | 375    | 7s                 | 0.804         | 0.950    |
-| wg9ps | 632    | 18s                | 0.571         | 0.868    |
-| rj8e0 | 2,401  | 6s                 | 0.694         | 0.839    |
-| h1arz | 717    | 8s                 | 0.683         | 0.870    |
-| v1z6y | 838    | 9s                 | 0.644         | 0.822    |
+| i3i43 | 420    | 7s                 | 0.782         | 0.926    |
+| wg9ps | 634    | 18s                | 0.569         | 0.892    |
+| rj8e0 | 2,406  | 6s                 | 0.677         | 0.850    |
+| h1arz | 1,042  | 8s                 | 0.648         | 0.819    |
+| v1z6y | 878    | 9s                 | 0.635         | 0.845    |
 
 ## Preservation
 
@@ -85,7 +85,7 @@ Please read our [code of conduct](CODE_OF_CONDUCT.md) first. Minor contributions
 
 ## Citation
 
-González-Bustamante, B., & Rivera, S. (2024). Annotated Data in Spanish for Toxicity and Insults in Digital Social Networks. Dataset, pre-release version 0.3.3 -- Purple Butterfly. Leiden University, Universidad Diego Portales, University of California Irvine and Training Data Lab. https://zenodo.org/doi/10.5281/zenodo.12574288.
+González-Bustamante, B., & Rivera, S. (2024). Annotated Data in Spanish for Toxicity and Insults in Digital Social Networks. Dataset, pre-release version 0.5.3 -- Icy Base. Leiden University, Universidad Diego Portales, University of California Irvine and Training Data Lab. https://zenodo.org/doi/10.5281/zenodo.12574288.
 
 ## Authors
 

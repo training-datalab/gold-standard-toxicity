@@ -5,17 +5,23 @@ All notable changes to "Gold Standard for Toxicity and Incivility Project" will 
 
 ## [1.0.0] - TBC
 ### Added
-- Finishing human-coders annotations on Labelbox.
-
-## [0.3.4] - TBC
-### Changed
-- Minor corrections.
+- Codebook.
 
 ## [Released]
 
+## [0.5.3] - 2024-09-06
+### Added
+- Labels and metadata in JSON.
+- Gold standard merging process.
+- Gold standard datasets in CSV files.
+
+## [0.4.3] - 2024-07-29
+### Added
+- Finishing human-coders annotations on Labelbox.
+
 ## [0.3.3] - 2024-06-27
 ### Added
-Zenodo DOI.
+- Zenodo DOI.
 
 ## [0.2.3] - 2024-06-26
 ### Changed
