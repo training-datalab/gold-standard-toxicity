@@ -194,8 +194,8 @@ protests <- filter(goldstd, subsample != "CON_Q1" & subsample != "CON_Q2" & subs
 ## Convention
 convention$id_obs <- gsub("id_|\\.txt", "", convention$id_obs)
 convention$id_obs <- as.numeric(convention$id_obs)
-convention$coder_1 <- ifelse(convention$coder_2 == "toxico", 1, 0) ## Exchange order of coders
-convention$coder_2 <- ifelse(convention$coder_1 == "toxico", 1, 0) ## Coder 2 is baseline
+convention$coder_1 <- ifelse(convention$coder_1 == "toxico", 1, 0)
+convention$coder_2 <- ifelse(convention$coder_2 == "toxico", 1, 0)
 convention$subsample <- NULL
 convention$check <- NULL
 goldstd_Convention <- left_join(convention, sample_convention, by = "id_obs")
@@ -204,8 +204,8 @@ write.csv(goldstd_Convention, "data/tidy/goldstd_Convention.csv", fileEncoding =
 ## Protests in Argentina and Chile
 protests$id_obs <- gsub("id_|\\.txt", "", protests$id_obs)
 protests$id_obs <- as.numeric(protests$id_obs)
-protests$coder_1 <- ifelse(protests$coder_2 == "toxico", 1, 0) ## Exchange order of coders
-protests$coder_2 <- ifelse(protests$coder_1 == "toxico", 1, 0) ## Coder 2 is baseline
+protests$coder_1 <- ifelse(protests$coder_1 == "toxico", 1, 0)
+protests$coder_2 <- ifelse(protests$coder_2 == "toxico", 1, 0)
 protests$subsample <- NULL
 protests$check <- NULL
 goldstd_protests <- left_join(protests, sample_protests, by = "id_obs")
